@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "description": "Seed project for flexible light React/Bootstrap 4 dashboards.",
   "main": "index.js",
+  "engines": {
+    "npm": "6.9.0",
+    "node": "10.16.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npm run start:dev",
